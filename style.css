@@ -76,7 +76,7 @@ object-fit: cover;
   margin-bottom: 15px;
 }
 
-.social-link a {
+.social-links a {
  display: inline-block; 
  min-height: 40px;
  width: 40px;
@@ -88,8 +88,8 @@ object-fit: cover;
  color: #FFFFFF;
  transition: all .5s ease;
 }
-.social-link a{
-   background-color: #00C3FF;
+.social-links a{
+   background-color: #0f5901;
 }
 
 @media(max-width:991px){
